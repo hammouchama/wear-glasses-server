@@ -1,0 +1,6 @@
+opencv
+dlib
+numpy
+urllib.request
+flask
+flask-cors
